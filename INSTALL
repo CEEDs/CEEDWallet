@@ -1,0 +1,9 @@
+Building CEED
+
+See doc/readme-qt.rst for instructions on building CEED QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of CEED.
+
+See doc/build-*.txt for instructions on building CEEDd,
+the intended-for-services, no-graphical-interface, reference
+implementation of CEED.
